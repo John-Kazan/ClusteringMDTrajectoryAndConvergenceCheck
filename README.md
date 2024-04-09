@@ -60,13 +60,13 @@ After this point we are going to repeat the same clustering analyses with differ
 After repeating the analyses on multiple windows we can gather the data and assess the rmsd variations in an excel document as follows:
 
 <p align="center" width="100%">
-    <img width="120" src="./images/image_4.png">
+    <img width="140" src="./images/image_4.png">
 </p>
 
 Example 1 is a good example showing rmsd values lower than 1 angstrom for many different window sizes for the last part of the simulation when applied.
 
 <p align="center" width="100%">
-    <img width="120" src="./images/image_5.png">
+    <img width="140" src="./images/image_5.png">
 </p>
 
 Example 2 is a bad example considering the rmsd values
